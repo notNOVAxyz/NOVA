@@ -1,1 +1,1 @@
-# NOVA
+#The worst part of coding is always writing the readme! do i make it super detailed or keep short and sweet? so many decisions to make... like what even needs to be in readme anyway? guess its time to open  up a blank doc and stare at it for a while.
